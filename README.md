@@ -1,5 +1,26 @@
 # 💫 About Me:
-```md id="dsaintro"<br>## 📊 About Me<br><br>• 🔭 Currently working on **Data Science & Analytics projects** to extract meaningful insights from real-world data  <br>• 👯 Looking to collaborate on **Data Analytics, Machine Learning & AI-driven projects**  <br>• 🤝 Interested in learning advanced analytics, business intelligence & data-driven decision making  <br>• 🌱 Currently learning **Python, SQL, Machine Learning, Power BI & Data Visualization**  <br>• 💬 Ask me about **Data Cleaning, EDA, Dashboards, SQL Queries & Analytics Projects**  <br>• ⚡ Fun Fact: I enjoy transforming raw data into interactive dashboards and actionable insights  <br><br>---<br><br>### 🛠️ Skills & Tools<br>`Python` • `SQL` • `Pandas` • `NumPy` • `Matplotlib` • `Power BI` • `Excel` • `Machine Learning`<br><br>### 📈 Current Goal<br>Building projects that solve real-world problems using data, analytics, and intelligent systems.<br>```<br>
+• 🔭 Currently working on Data Science & Analytics projects to extract meaningful insights from real-world data
+
+• 👯 Looking to collaborate on Data Analytics, Machine Learning & AI-driven projects
+
+• 🤝 Interested in learning advanced analytics, business intelligence & data-driven decision making
+
+• 🌱 Currently learning Python, SQL, Machine Learning, Power BI & Data Visualization
+
+• 💬 Ask me about Data Cleaning, EDA, Dashboards, SQL Queries & Analytics Projects
+
+• ⚡ Fun Fact: I enjoy transforming raw data into interactive dashboards and actionable insights
+
+---
+
+### 🛠️ Skills & Tools
+
+Python • SQL • Pandas • NumPy • Matplotlib • Power BI • Excel • Machine Learning
+
+### 📈 Current Goal
+
+Building projects that solve real-world problems using data, analytics, and intelligent systems.
+
 
 
 ## 🌐 Socials:
